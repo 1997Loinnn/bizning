@@ -51,17 +51,17 @@ import { ref } from 'vue'
               </span>
               <p>10 turdagi Xizmatlar</p>
             </div>
-            <a  href="tel:+998901127474" class="mt-4 text-xl w-full text-white bg-indigo-600 py-2 px-20 rounded-xl shadow-lg">+998 90 112 74 74</a>
+            <a  href="tel:+998901127474" class="mt-4 text-xl w-full text-white bg-indigo-600 py-2 px-5 rounded-xl shadow-lg">+998 90 112 74 74</a>
           </div>
         </div>
         <div class="max-w-sm bg-white px-6 pt-6 pb-2 rounded-xl shadow-lg transform hover:scale-105 transition duration-500">
-          <h3 class="mb-3 text-xl font-bold text-indigo-600">Granit, Marmar, Korka, Travertin, Kafel, Nekalay g'isht, Kamin, Barsela</h3>
+          <h3 class="mb-3 text-xl font-bold text-indigo-600">Granit, Marmar, Korka, Travertin, Kafel, Nekalay g'isht, Kamin, Balasena</h3>
           <div class="relative">
             <img class="w-full rounded-xl" src="/src/assets/images/sokil-first.jpg" alt="Rasm" />
             <p class="absolute top-0 bg-yellow-300 text-gray-800 font-semibold py-1 px-3 rounded-br-lg rounded-tl-lg">Kelishiladi</p>
             <!-- <p class="absolute top-0 right-0 bg-yellow-300 text-gray-800 font-semibold py-1 px-3 rounded-tr-lg rounded-bl-lg">%20 Discount</p> -->
           </div>
-          <h1 class="mt-4 text-gray-800 text-2xl font-bold cursor-pointer">Tashqi ko'rinish bo'yicha tosh ishlari, Yozgi oshxona , Kaben, Nekalay g'isht, Zinalar , Barsela bo'yicha tosh ishlarni hammasi bo'yicha xizmat ko'rsatamiz.</h1>
+          <h1 class="mt-4 text-gray-800 text-2xl font-bold cursor-pointer">Tashqi ko'rinish bo'yicha tosh ishlari, Yozgi oshxona , Kaben, Nekalay g'isht, Zinalar , Balasena bo'yicha tosh ishlarni hammasi bo'yicha xizmat ko'rsatamiz.</h1>
           <div class="my-4">
             <div class="flex space-x-1 items-center">
               <span>
@@ -87,7 +87,7 @@ import { ref } from 'vue'
               </span>
               <p>10 turdagi Xizmatlar</p>
             </div>
-            <a  href="tel:+998909295233" class="mt-4 text-xl w-full text-white bg-indigo-600 py-2 px-20 rounded-xl shadow-lg">+998 90 929 52 33</a>
+            <a  href="tel:+998909295233" class="mt-4 text-xl w-full text-white bg-indigo-600 py-2 px-5 rounded-xl shadow-lg">+998 90 929 52 33</a>
           </div>
         </div>
         <div class="max-w-sm bg-white px-6 pt-6 pb-2 rounded-xl shadow-lg transform hover:scale-105 transition duration-500">
@@ -123,7 +123,7 @@ import { ref } from 'vue'
               </span>
               <p>13 turdagi Xizmatlar</p>
             </div>
-            <a  href="tel:+998901127474" class="mt-4 text-xl w-full text-white bg-indigo-600 py-2 px-20 rounded-xl shadow-lg">+998 90 112 74 74</a>
+            <a  href="tel:+998909180114" class="mt-4 text-xl w-full text-white bg-indigo-600 py-2 px-5 rounded-xl shadow-lg">+998 90 918 01 14</a>
           </div>
         </div>
         <div class="max-w-sm bg-white px-6 pt-6 pb-2 rounded-xl shadow-lg transform hover:scale-105 transition duration-500">
@@ -159,7 +159,7 @@ import { ref } from 'vue'
               </span>
               <p>5 turdagi Xizmatlar</p>
             </div>
-            <a  href="tel:+998996557273" class="mt-4 text-xl w-full text-white bg-indigo-600 py-2 px-20 rounded-xl shadow-lg">+998 99 655 72 73</a>
+            <a  href="tel:+998996557273" class="mt-4 text-xl w-full text-white bg-indigo-600 py-2 px-5 rounded-xl shadow-lg">+998 99 655 72 73</a>
           </div>
         </div>
         <div class="max-w-sm bg-white px-6 pt-6 pb-2 rounded-xl shadow-lg transform hover:scale-105 transition duration-500">
@@ -195,7 +195,7 @@ import { ref } from 'vue'
               </span>
               <p>8 turdagi Xizmatlar</p>
             </div>
-            <a  href="tel:+998901127474" class="mt-4 text-xl w-full text-white bg-indigo-600 py-2 px-20 rounded-xl shadow-lg">+998 90 112 74 74</a>
+            <a  href="tel:+998912157997" class="mt-4 text-xl w-full text-white bg-indigo-600 py-2 px-5 rounded-xl shadow-lg">+998 91 215 79 97</a>
           </div>
         </div>
         <div class="max-w-sm bg-white px-6 pt-6 pb-2 rounded-xl shadow-lg transform hover:scale-105 transition duration-500">
@@ -231,7 +231,7 @@ import { ref } from 'vue'
               </span>
               <p>6 turdagi Xizmatlar</p>
             </div>
-            <a  href="tel:+998946311521" class="mt-4 text-xl w-full text-white bg-indigo-600 py-2 px-20 rounded-xl shadow-lg">+998 94 631 15 21</a>
+            <a  href="tel:+998946311521" class="mt-4 text-xl w-full text-white bg-indigo-600 py-2 px-5 rounded-xl shadow-lg">+998 94 631 15 21</a>
           </div>
         </div>
       </div>
